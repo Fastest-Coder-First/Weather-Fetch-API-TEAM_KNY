@@ -41,4 +41,22 @@ python final.py "<city_name>"
 - Uses the OpenAI API to generate an appropriate response on weather based on the city of user's choice.
 - Retrieves the reply from the model and prints it.
 - If the response status code is not 200, it prints an error message.
+## GitHub Copilot Usage
 
+    GitHub Copilot can assist in various scenarios throughout the codebase
+
+
+## API Request URL Building:
+Copilot can provide suggestions in constructing the API request URL, ensuring the correct formatting.
+![suggestions](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/2.png)
+# 
+## Error Handling and Exception Handling:
+Copilot can provide suggestions for error handling and exception handling in the get_weather_data function, helping to handle different errors.
+![data parsing](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/1.png)
+# 
+## Weather Information Formatting:
+Copilot can suggest improvements in formatting and displaying the weather information and suggest the code.
+![code suggest](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/3.png)
+#
+## Variable Naming and Code Organization:
+Copilot can provide suggestions for variable naming and code organization, helping to improve the readability and maintainability of the codebase.
