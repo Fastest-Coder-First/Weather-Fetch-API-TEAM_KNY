@@ -3,7 +3,7 @@
 
 The [Python](https://www.python.org/) script fetches weather data for the given city and generates a conversational response with temperature information and weather description with [Github Copilot](https://github.com/features/copilot).
 
-# Here's a brief explanation of the script:
+# Brief Explanation:
 
 The script starts by importing the necessary modules: argparse for parsing command-line arguments, requests for making HTTP requests, openai for using the OpenAI API, json for working with JSON data, time for adding delays in printing, and re for regular expression operations .
 ## Installation
@@ -30,6 +30,14 @@ Run this command in your terminal to start
 ```sh
 python final.py "<city_name>"
 ```
+
+## Working
+
+# Fetching Hyderabad weather
+![Example 1](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/ex1.png)
+
+# Fetching Mumbai weather
+![Example 2](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/ex2.png)
 > Note: Replace <city_name> with the input
 ## WorkFlow:
 ![work flow](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/workflow.png)
