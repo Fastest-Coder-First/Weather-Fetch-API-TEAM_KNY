@@ -33,10 +33,10 @@ python final.py "<city_name>"
 
 ## Working
 
-# Fetching Hyderabad weather
+### Fetching Hyderabad weather
 ![Example 1](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/ex1.png)
 
-# Fetching Mumbai weather
+### Fetching Mumbai weather
 ![Example 2](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/ex2.png)
 > Note: Replace <city_name> with the input
 ## WorkFlow:
@@ -51,20 +51,20 @@ python final.py "<city_name>"
 - If the response status code is not 200, it prints an error message.
 ## GitHub Copilot Usage
 
-    GitHub Copilot can assist in various scenarios throughout the codebase
+### GitHub Copilot can assist in various scenarios throughout the codebase
 
 
-## API Request URL Building:
+#### API Request URL Building:
 Copilot can provide suggestions in constructing the API request URL, ensuring the correct formatting.
 ![suggestions](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/2.png)
 # 
-## Error Handling and Exception Handling:
+#### Error Handling and Exception Handling:
 Copilot can provide suggestions for error handling and exception handling in the get_weather_data function, helping to handle different errors.
 ![data parsing](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/1.png)
 # 
-## Weather Information Formatting:
+#### Weather Information Formatting:
 Copilot can suggest improvements in formatting and displaying the weather information and suggest the code.
 ![code suggest](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/3.png)
 #
-## Variable Naming and Code Organization:
+#### Variable Naming and Code Organization:
 Copilot can provide suggestions for variable naming and code organization, helping to improve the readability and maintainability of the codebase.
