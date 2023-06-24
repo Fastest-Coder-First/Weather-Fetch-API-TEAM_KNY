@@ -22,7 +22,7 @@ def main():
     args = parser.parse_args()
 
     #This is the key for the gpt-3.5-turbo model
-    openai.api_key = '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'
+    openai.api_key = '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'
 
     #This is the prompt for the gpt-3.5-turbo model
     messages = [ {"role": "system", "content":"You are a intelligent assistant."} ]
